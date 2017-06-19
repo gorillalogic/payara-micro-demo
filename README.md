@@ -18,5 +18,5 @@ In this repository you will find 3 folders:
 
 * *Code:* This folder has the two projects used during the demo to show the different features of payara-micro. One of them to show how easy is to develop a Rest-Api and a WebSocket endpoint in Java EE and how payara micro is able to provide this JSR. The other one allows you to check how the automatic clustering feature of payara micro works, sharing the session id through all the instances of the same application.
 
-#More Info
+# More Info
 If you want to know more about payara-micro and its features, you can visit the [Payara Micro Web site](http://www.payara.fish/payara_micro).

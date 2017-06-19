@@ -1,4 +1,4 @@
-#Code 
+# Code 
 These are the two Java EE projects used in the demo during the Lunch&Learn presentation.
 
 * *payarademo:* is a Java EE project with a rest-api and a websocket endpoint. The application allows you to check how different JSR are provided by this application server.
